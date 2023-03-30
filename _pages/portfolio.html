@@ -4,6 +4,7 @@ title: "Portfólio"
 permalink: /portfolio/
 author_profile: true
 ---
+{% include base_path %}
 <h2>GitHub:</h2> 
 <h3>JavaScript, HTML e CSS</h3>
 <p><a href="https://github.com/marinabotton/alura_jogo_pong.git">
@@ -19,8 +20,6 @@ author_profile: true
 <p><a href="https://github.com/marinabotton/alura_jogo_forca.git">
   Jogo da Forca
 </a></p>
-
-{% include base_path %}
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
