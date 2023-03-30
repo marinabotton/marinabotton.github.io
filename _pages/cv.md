@@ -8,18 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 ## Formação 
 
 * <strong>Análise e Desenvolvimento de Sistemas</strong> - FIAP <br/>
 Conclusão para Dezembro de 2024.
 
-[_Clique aqui para ver as disciplinas do curso._](disciplinas_ads/README.md)<br />
-
 * <strong>Marketing</strong> - Centro Universitário Belas Artes de São Paulo <br/>
 Conclusão para Junho de 2023.
-
-[_Clique aqui para ver as disciplinas do curso._](disciplinas_mkt/README.md)<br />
 
 ## Solf Skills
 
@@ -103,67 +98,68 @@ Inglês:
 * Inglês para Dev | 76h<br />
 Alura | Online<br />
 Março de 2023<br />
-[Certificação](certificados/idiomas/Alura_Línguas_Inglês_para_Devs.pdf)
 
 * Intercâmbio<br />
 ILAC – International Language Academy | Toronto-ON (Canadá)<br />
 Dez/2015 à Jan/2016 (3-week course)<br />
-[Certificação](certificados/idiomas/ILAC_Intercâmbio.pdf)
 
 * Curso de Idiomas <br /> 
 FISK | Jaciara - MT <br />
 2002 - 2013<br />
-[Certificação](certificados/idiomas/FISK_Curso_Completo.pdf)
+
 ### Programação
-* Introdução ao Desenvolvimento de Software ([Certificações](certificados/programacao/intro_dev_software/))
-  * Introdução à Programação - EBAC | 20h
-  * Introdução à Programação e Pensamento Computacional - DIO | 5h
-  * Pensamento Computacional - DIO | 2h
-  * Introdução ao Desenvolvimento Moderno de Software | DIO | 2h
-  * Princípios de Desenvolvimento de Software - DIO | 14h
-  * Arquitetura de Computadores: por trás de como seu programa funciona | Alura | 8h
-* Lógica da Programação ([Certificações](certificados/programacao/logica_programacao/))
-  * Algoritmos: Aprenda a programar | FIAP | 80h
-  * Lógica de Programação - FIAP | 20h
-  * Lógica de Programação Essencial - DIO | 4h
-  * Lógica da Programação: Estruturas de controle de fluxo | Udemy | 1h
-  * Fundamento de Lógica de Programação | Fundação Bradesco | 15h
-* JavaScript, HTML e CSS ([Certificações](certificados/programacao/js_html_css/))
+* Introdução ao Desenvolvimento de Software
+  * Introdução à Programação - EBAC - 20h
+  * Introdução à Programação e Pensamento Computacional - DIO - 5h
+  * Pensamento Computacional - DIO - 2h
+  * Introdução ao Desenvolvimento Moderno de Software - DIO - 2h
+  * Princípios de Desenvolvimento de Software - DIO - 14h
+  * Arquitetura de Computadores: por trás de como seu programa funciona - Alura - 8h
+
+* Lógica da Programação 
+  * Algoritmos: Aprenda a programar / FIAP / 80h
+  * Lógica de Programação / FIAP / 20h
+  * Lógica de Programação Essencial - DIO / 4h
+  * Lógica da Programação: Estruturas de controle de fluxo / Udemy / 1h
+  * Fundamento de Lógica de Programação / Fundação Bradesco / 15h
+
+* JavaScript, HTML e CSS 
   * Lógica de Programação: Comece em lógica com o jogo Pong e JavaScript | Alura | 6h
   * JavaScript e HTML: Desenvolva um jogo e pratique a lógica da programação | Alura | 16h
   * Devlinks: Minha primeira página web | Rocketseat | 5h
   * HTML e CSS: Ambientes de desenvolvimento, estrutura de arquivos e tags | Alura | 8h
   * HTML e CSS: Classes, posicionamento e Flexbox | Alura | 8h
-* Python ([Certificações](certificados/programacao/python/))
+
+* Python 
   * Python: Começando com a linguagem | Alura | 12h
   * Python: Avançando na linguagem | Alura | 12h
   * Python | FIAP | 80h
-* Git / GitHub ([Certificações](certificados/programacao/git_github/))
+* Git / GitHub 
   * Criando seu Primeiro Repositório no GitHub para Compartilhar seu Progresso | DIO | 2h
   * Introdução ao Git e GitHub - DIO | 3h
-* Java ([Certificação](certificados/programacao/java/))
+* Java 
    * Java Xpert (Full Stack Development) | Fiap Shift | 136h
 ### Inovação e Gestão
-* Criatividade ([Certificações](certificados/inovacao_gestao/criatividade/))
+* Criatividade 
   * Criatividade: Potencialize a partir das suas motivações | Alura | 8h
   * Criatividade e Adequação: Aprendendo e aprimorando um processo criativo | Alura | 6h
   * Criatividade Aplicada: Aprimorando o processo criativo no mercado de trabalho | Alura | 6h
   * Curiosidade, Persistência e Resiliência: Da ideia à ação | Alura | 6h
-* Métodos Ágeis ([Certificações](certificados/inovacao_gestao/metodos_ageis/))
+* Métodos Ágeis 
   * Scrum: Agilidade em seu projeto | Alura | 10h
   * Trabalhando em Equipes Ágeis | DIO | 3h
-* Ensino e Aprendizado ([Certificações](certificados/inovacao_gestao/ensino_aprendizado/))
+* Ensino e Aprendizado 
   * Aprender a Aprender: Técnicas para seu autodesenvolvimento | Alura | 8h
   * Matemática | FIAP | 20h
   * Introdução à Administração | Fund. Bradesco | 12h
-* Comunicação ([Certificações](certificados/inovacao_gestao/comunicacao/))
+* Comunicação 
   * Comunicação: Como se expressar e ser compreendido | Alura | 8h
   * Escrita Criativa | BA | 40h
   * Produção de Textos | BA | 40h
-* Liderança ([Certificações](certificados/inovacao_gestao/lideranca/))
+* Liderança 
   * Primeira Liderança: Aprendendo sobre a missão e propósito de liderar pessoas | Alura | 6h
   * Liderança: Prática e gestão de melhorias | Alura | 6h
-* Marketing Pessoal ([Certificações](certificados/inovacao_gestao/marketing_pessoal/))
+* Marketing Pessoal 
   * Networking: Como criar uma rede de contatos profissional | Linkedin Learning | 1h
   * Desenvolvimento de Carreira: A demanda do mercado | Alura | 10h
   * Desenvolvimento de Carreira: Como alcançar a posição desejada | Alura | 8h
@@ -171,26 +167,26 @@ FISK | Jaciara - MT <br />
   * Transição de Carreira: Um guia para a área da tecnologia | Alura | 8h
   * Storytelling: Visão de negócios e desenvolvimento pessoal | Alura | 8h
   * Sprint Processos Seletivos em Tech | PrograMaria | 13h
-* Marketing ([Certificações](certificados/inovacao_gestao/marketing/))
+* Marketing 
   * A Internet e os Negócios | FGV Online | 5h
   * Redes Sociais: Conceitos e organização | FGV Online | 5h
   * Marketing Digital: Fundamentos para seu planejamento on-line | Alura | 12h
   * Mídias Sociais: Estratégias para engajar o público | Alura | 8h
   * Marketing de Conteúdo | Rock Content | 4h
 ### Informática
-* Microsoft Excel 2016 ([Certificações](certificados/informatica/microsoft_excel/)) 
+* Microsoft Excel 2016 
   * Básico | Fundação Bradesco | 15h
   * Intermediário | Fundação Bradesco | 20h
   * Avançado | Fundação Bradesco | 30h
-* Microsoft Word 2016 ([Certificações](certificados/informatica/microsoft_word/))
+* Microsoft Word 2016 
   * Básico | Fundação Bradesco | 9h
   * Intermediário | Fundação Bradesco | 12h
   * Avançado | Fundação Bradesco | 8h
-* SAP ([Certificação](certificados/informatica/sap/))
+* SAP 
   * SAP: Entendendo suas características | Alura | 10h
-* Adobe Photoshop ([Certificação](certificados/informatica/adobe_photoshop/))
+* Adobe Photoshop 
   * Introdução ao Adobe Photoshop: Conceitos essenciais | Alura | 10h
-* Adobe Illustrator ([Certificação](certificados/informatica/adobe_illustrator/))
+* Adobe Illustrator 
   * Adobe Illustrator: Introdução ao desenho vetorial | Alura | 10h
 
 ## Projetos:
@@ -204,57 +200,3 @@ FISK | Jaciara - MT <br />
 ## Contato:
 *  [Linkedin](https://www.linkedin.com/in/marinabotton/)<br />
 
-### Me ajude!
-Encontrou algum erro nas informações? Sentiu falta de algo? Abre uma issue! <br/>
-
-
-
-
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
