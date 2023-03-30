@@ -4,11 +4,13 @@ title: "Portfólio"
 permalink: /portfolio/
 author_profile: true
 ---
+{% include base_path %}
 
-Em desenvolvimento!
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
 
-<h2>Projetos / GitHub:</h2>
-<h4>JavaScript, HTML e CSS</h4>
+<h3>Projetos em JavaScript, HTML e CSS:</h3>
 <p><a href="https://github.com/marinabotton/alura_jogo_pong.git">
   Jogo Pong
 </a></p>
@@ -16,17 +18,10 @@ Em desenvolvimento!
   Jogo Freeway
 </a></p>
 
-<h4>Python</h4>
+<h3>Projetos em Python:</h3>
 <p><a href="https://github.com/marinabotton/alura_jogo_adivinhacao.git">
   Jogo da Adivinhação
 </a></p>
 <p><a href="https://github.com/marinabotton/alura_jogo_forca.git">
   Jogo da Forca
 </a></p>
-
-{% include base_path %}
-
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
