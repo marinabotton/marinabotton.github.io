@@ -34,15 +34,17 @@ Conclusão para Junho de 2023.
 ## Experência Profissional
 
 * (Jun/2019 - Atualmente)<br/>
-**Freelance** - <br/>
-Consultora de Marketing e Mídias.<br/>
+**Freelance**<br/>
+Consultora de Marketing e Mídias<br/>
   * Comunicação oral para interagir com clientes e entender suas necessidades; <br/>
   * Desenvolvimento de ideias criativas para campanhas; <br/>
   * Gerenciamento de projetos, incluindo definição de objetivos, prazos e recursos; <br/>
   * Redação para criação de textos persuasivos e engajadores em diferentes formatos; <br/>
   * Monitoramento e análise de métricas para avaliar resultados.<br/>
 
-* (Jan/2022 - Jun/2022) ***Solar – Coca Cola** - Analista de Marketing .
+* (Jan/2022 - Jun/2022)<br/>
+***Solar – Coca Cola**<br/>
+Analista de Marketing<br/>
   * Gestão de agências de publicidade e fornecedores;<br/>
   * Gerenciamento de projetos e prazos, garantindo que as campanhas e eventos sejam entregues dentro do prazo e orçamento;<br/>
   * Comunicação de ideias e conceitos de maneira precisa e convincente, tanto oralmente quanto por escrito;<br/>
@@ -56,8 +58,8 @@ Consultora de Marketing e Mídias.<br/>
   * Análise de dados e métricas para avaliação de desempenho da loja virtual e tomada de decisões estratégicas.<br/>
   
 * (Jan/2018 - Jul/2019)<br/>
-**OZ Language School** - 
-Professora de Inglês .
+**OZ Language School**<br/>
+Professora de Inglês<br/>
   * Criatividade para planejar aulas e atividades didáticas para manter os alunos engajados e motivados;<br/>
   * Adaptar o ensino de acordo com o conhecimento e as necessidades individuais do aluno;<br/>
   * Comunicação oral e escrita para explicar conceitos e tirar dúvidas;<br/>
@@ -65,24 +67,24 @@ Professora de Inglês .
   * Dar feedback construtivo e encorajador aos alunos para incentivá-los a alcançar seus objetivos educacionais.<br/>
 
 * (Abr/2017 - Fev/2018)<br/>
-**Secretaria Estadual de Trabalho e Assistência Social | SETAS** - 
-Assistente Técnico.
+**Secretaria Estadual de Trabalho e Assistência Social | SETAS**<br/>
+Assistente Técnico<br/>
   * Pesquisa e coleta de informações, para auxiliar na tomada de decisões de gestão;<br/>
   * Elaboração de ofícios e comunicados internos com precisão e clareza;<br/>
   * Gerenciamento de arquivos, documentação e fluxo de informações;<br/>
   * Comunicação oral e escrita para interagir com colegas de trabalho, superiores e outros departamentos.<br/>
 
 * (Jan/2018 - Jul/2019)<br/>
-**Assembleia Legislativa de Mato Grosso** - 
-Assessora Parlamentar.
+**Assembleia Legislativa de Mato Grosso**<br/>
+Assessora Parlamentar<br/>
   * Redação técnica de ofícios, requerimentos e outros documentos;<br/>
   * Organização e gerenciamento de informações e documentação;<br/>
   * Comunicação oral e escrita para interagir com parlamentares, membros do gabinete e outros setores governamentais;<br/>
   * Trabalhar sob pressão e em situações de prazos apertados.<br/>
 
-* (Fev/2018 - Jul/2016)<br />
-**Tribunal Regional do Trabalho da 23ª Região** - 
-Estágio.
+* (Fev/2018 - Jul/2016)<br/>
+**Tribunal Regional do Trabalho da 23ª Região**<br/>
+Estágio<br/>
   * Pesquisa e análise de leis e regulamentações relacionadas a processos<br/>
   * Preparar expedientes e petições com precisão e seguindo as normas e procedimentos legais<br/>
   * Comunicação oral e escrita para interagir com juízes, advogados e outros profissionais do meio jurídico;<br/>
