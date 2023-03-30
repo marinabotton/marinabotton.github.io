@@ -19,4 +19,4 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Estou em busca da minha primeira experiência profissional** na área Tech, e procuro a empresa ideal para eu poder desenvolver meus conhecimentos e ampliá-los, além de utilizar as minhas soft skills, para contribuir com as demandas diárias do time, oferecendo sempre o meu melhor. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Enxergo desafios como oportunidade de aprendizado, por isso, estou disponível para absorver todo o conhecimento compartilhado e estar em constante evolução como profissional!
+&nbsp;&nbsp;&nbsp;&nbsp;*Enxergo desafios como oportunidade de aprendizado, por isso, estou disponível para absorver todo o conhecimento compartilhado e estar em constante evolução como profissional!*
