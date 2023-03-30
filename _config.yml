@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Meu Site :)"
+title                    : "Meu Site"
 title_separator          : "-"
 name                     : &name "Marina Botton Beck"
 description              : &description "Analista Desenvolvedor | Python | JavaScript | HTML | CSS | Junior"
