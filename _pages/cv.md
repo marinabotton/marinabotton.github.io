@@ -115,21 +115,18 @@ FISK | Jaciara - MT <br />
   * Introdução ao Desenvolvimento Moderno de Software - DIO - 2h
   * Princípios de Desenvolvimento de Software - DIO - 14h
   * Arquitetura de Computadores: por trás de como seu programa funciona - Alura - 8h
-
 * Lógica da Programação 
   * Algoritmos: Aprenda a programar - FIAP - 80h
   * Lógica de Programação - FIAP - 20h
   * Lógica de Programação Essencial - DIO - 4h
   * Lógica da Programação: Estruturas de controle de fluxo - Udemy - 1h
   * Fundamento de Lógica de Programação - Fundação Bradesco - 15h
-
 * JavaScript, HTML e CSS 
   * Lógica de Programação: Comece em lógica com o jogo Pong e JavaScript - Alura - 6h
   * JavaScript e HTML: Desenvolva um jogo e pratique a lógica da programação - Alura - 16h
   * Devlinks: Minha primeira página web - Rocketseat - 5h
   * HTML e CSS: Ambientes de desenvolvimento, estrutura de arquivos e tags - Alura - 8h
   * HTML e CSS: Classes, posicionamento e Flexbox - Alura - 8h
-
 * Python 
   * Python: Começando com a linguagem - Alura - 12h
   * Python: Avançando na linguagem - Alura - 12h
@@ -139,6 +136,7 @@ FISK | Jaciara - MT <br />
   * Introdução ao Git e GitHub - DIO - 3h
 * Java 
    * Java Xpert (Full Stack Development) - Fiap Shift - 136h
+
 ### Inovação e Gestão
 * Criatividade 
   * Criatividade: Potencialize a partir das suas motivações - Alura - 8h
@@ -173,6 +171,7 @@ FISK | Jaciara - MT <br />
   * Marketing Digital: Fundamentos para seu planejamento on-line - Alura - 12h
   * Mídias Sociais: Estratégias para engajar o público - Alura - 8h
   * Marketing de Conteúdo - Rock Content - 4h
+
 ### Informática
 * Microsoft Excel 2016 
   * Básico - Fundação Bradesco - 15h
