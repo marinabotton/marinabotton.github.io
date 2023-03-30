@@ -43,8 +43,7 @@ Consultora de Marketing e Mídias<br/>
   * Monitoramento e análise de métricas para avaliar resultados.<br/>
 
 * (Jan/2022 - Jun/2022)<br/>
-***Solar – Coca Cola**<br/>
-Analista de Marketing<br/>
+***Solar – Coca Cola** | Analista de Marketing<br/>
   * Gestão de agências de publicidade e fornecedores;<br/>
   * Gerenciamento de projetos e prazos, garantindo que as campanhas e eventos sejam entregues dentro do prazo e orçamento;<br/>
   * Comunicação de ideias e conceitos de maneira precisa e convincente, tanto oralmente quanto por escrito;<br/>
