@@ -11,7 +11,7 @@ redirect_from:
 
 &nbsp;&nbsp;&nbsp;&nbsp;Vinda da área do *Marketing*, vivo buscando soluções criativas para deixar a vida menos complicada. Além disso, sou uma pessoa analítica, proativa, resiliente, e sempre busco encontrar soluções para problemas de forma eficiente, e por essa razão, acredito que a programação é o meu lugar.
 
-&nbsp;&nbsp;&nbsp;&nbsp;Iniciei meus estudos na área de desenvolvimento de software em Junho de 2022, realizando vários cursos livres em diversas plataformas. Agora, em 2023/1, tive a oportunidade de ingressar na Graduação de **Análise e Desenvolvimento de Sistemas*** na *FIAP*, de onde já venho transitando em outras linguagens, como JavaScript e Python. 
+&nbsp;&nbsp;&nbsp;&nbsp;Iniciei meus estudos na área de desenvolvimento de software em Junho de 2022, realizando vários cursos livres em diversas plataformas. Agora, em 2023/1, tive a oportunidade de ingressar na Graduação de **Análise e Desenvolvimento de Sistemas** na *FIAP*, de onde já venho transitando em outras linguagens, como JavaScript e Python. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Paralelamente à faculdade, continuo meus estudos com cursos complementares direcionados a programação.
 
