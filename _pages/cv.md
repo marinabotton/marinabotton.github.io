@@ -35,25 +35,22 @@ Conclusão para Junho de 2023.
 ## Experência Profissional
 
 * (Jun/2019 - Atualmente)<br/>
-**Freelance** - 
-Consultora de Marketing e Mídias.
+**Freelance** - <br/>
+Consultora de Marketing e Mídias.<br/>
   * Comunicação oral para interagir com clientes e entender suas necessidades; <br/>
   * Desenvolvimento de ideias criativas para campanhas; <br/>
   * Gerenciamento de projetos, incluindo definição de objetivos, prazos e recursos; <br/>
   * Redação para criação de textos persuasivos e engajadores em diferentes formatos; <br/>
   * Monitoramento e análise de métricas para avaliar resultados.<br/>
 
-* (Jan/2022 - Jun/2022)<br/>
-***Solar – Coca Cola** - 
-Analista de Marketing .
+* (Jan/2022 - Jun/2022) ***Solar – Coca Cola** - Analista de Marketing .
   * Gestão de agências de publicidade e fornecedores;<br/>
   * Gerenciamento de projetos e prazos, garantindo que as campanhas e eventos sejam entregues dentro do prazo e orçamento;<br/>
   * Comunicação de ideias e conceitos de maneira precisa e convincente, tanto oralmente quanto por escrito;<br/>
   * Conhecimento em SAP para gerenciamento de processos de pagamento a fornecedores e solicitação de materiais para campanhas.<br/>
 
 * (Mar/2018 - Jun/2019)<br/>
-**Tua Rosa** - 
-Sócia-Proprietária.
+**Tua Rosa** - Sócia-Proprietária.
   * Administração de loja virtual, incluindo gestão de estoque, pedidos e entregas;<br/>
   * Planejamento financeiro e estratégico, garantindo a eficiência da operação e maximização dos lucros;<br/>
   * Gerenciamento de projetos, incluindo habilidades em definir metas e prazos e monitorar o progresso;<br/>
