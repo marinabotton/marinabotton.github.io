@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Marina Botton Beck"
+title                    : "Meu Site :)"
 title_separator          : "-"
 name                     : &name "Marina Botton Beck"
 description              : &description "Analista Desenvolvedor | Python | JavaScript | HTML | CSS | Junior"
@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : # https://www.linkedin.com/in/marinabotton/
+  linkedin         : https://www.linkedin.com/in/marinabotton/""
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # https://stackoverflow.com/users/21211630/marina-botton
+  stackoverflow    : "https://stackoverflow.com/users/21211630/marina-botton"
   steam            :
   tumblr           :
   twitter          :
